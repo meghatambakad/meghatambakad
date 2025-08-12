@@ -8,7 +8,7 @@
 ### 🚀 About Me
 - 🌱 I’m currently learning **advanced frontend development** and exploring backend basics.
 - 💻 I love creating responsive, user-friendly websites.
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **meghatambakad@example.com**
 - 🌟 Fun fact: I enjoy solving coding challenges and learning design trends.
 
 ---
@@ -27,5 +27,5 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://www.linkedin.com/in/megha-tambakad-20a51425b/)
+
