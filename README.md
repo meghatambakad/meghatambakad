@@ -27,5 +27,5 @@
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/megha-tambakad-20a51425b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/megha-tambakad-20a51425b/)
 
