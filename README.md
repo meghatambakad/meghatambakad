@@ -8,7 +8,7 @@
 ### 🚀 About Me
 - 🌱 I’m currently learning **advanced frontend development** and exploring backend basics.
 - 💻 I love creating responsive, user-friendly websites.
-- 📫 How to reach me: **meghatambakad@example.com**
+- 📫 How to reach me: **meghatambakad@gmail.com**
 - 🌟 Fun fact: I enjoy solving coding challenges and learning design trends.
 
 ---
